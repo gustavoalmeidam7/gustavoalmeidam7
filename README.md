@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou o Gustavo</h1>
 <h3 align="center">Um desenvolvedor de software apaixonado</h3>
 
-- 🌱 Atualmente estou estudando sobre **Java, Python, Springboot, Flask, PostgreSQL e Docker**
+- 🌱 Atualmente estou estudando sobre **Python, Flask, PostgreSQL, Docker, IA/RAG**
 
 - 👨‍💻 Linked-in [https://www.linkedin.com/in/gustavo-almeida-martins-m7/](https://www.linkedin.com/in/gustavo-almeida-martins-m7/)
 
@@ -30,9 +30,9 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
 </a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-</a> 
+  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> 
+  <img src="https://img.icons8.com/?size=100&id=AqYCfGyGXlO7&format=png&color=FFFFFF" alt="flask" width="40" height="40"/>
+</a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </a> 
