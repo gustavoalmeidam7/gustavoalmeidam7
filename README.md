@@ -1,7 +1,6 @@
 <h1 align="center">Oi 👋, eu sou o Gustavo</h1>
-<h3 align="center">Um desenvolvedor de software apaixonado</h3>
 
-- 🌱 Atualmente estou estudando sobre **Python, Flask, PostgreSQL, Docker, IA/RAG**
+- 🌱 Atualmente estou estudando sobre **Python, FastAPI, PostgreSQL, Docker, IA, ML e RAG**
 
 - 👨‍💻 Linked-in [https://www.linkedin.com/in/gustavo-almeida-martins-m7/](https://www.linkedin.com/in/gustavo-almeida-martins-m7/)
 
