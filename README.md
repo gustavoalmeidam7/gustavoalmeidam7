@@ -11,32 +11,38 @@
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+<a href="https://www.gnu.org/software/bash/"> 
+  <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
 </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<a href="https://www.docker.com/"> 
+  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
 </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<a href="https://fastapi.tiangolo.com/"> 
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="flask" width="40" height="40"/>
 </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+<a href="https://git-scm.com/"> 
+  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
 </a>
-  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/?size=100&id=AqYCfGyGXlO7&format=png&color=FFFFFF" alt="flask" width="40" height="40"/>
+<a href="https://www.java.com">
+  <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
 </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a> 
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+<a href="https://www.linux.org/"> 
+  <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
+</a>
+<a href="https://n8n.io/"> 
+  <img src="https://github.com/user-attachments/assets/28f75871-6eb1-44c1-94d3-f233d01bac5a" alt="linux" width="40" height="40"/>
+</a>
+<a href="https://www.python.org/"> 
+  <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org"> 
+  <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
+</a>
+<a href="https://redis.io/">
+  <img src="https://skillicons.dev/icons?i=redis" alt="spring" width="40" height="40"/>
+</a>
+<a href="https://spring.io/">
+  <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/>
 </a>
 </p>
 
